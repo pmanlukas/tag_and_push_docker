@@ -1,4 +1,4 @@
-original_image="app-iconmon-v1.fhm.de:5000/nvidia/cuda "
+original_image="app-iconmon-v1.fhm.de:5000/nvidia/cuda"
 target_reg="artifacts.core.pke.fhm.de/dt-docker-public-local/"
 minimum_version="0.0"
 grep_filter=""
